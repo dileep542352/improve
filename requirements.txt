@@ -41,3 +41,5 @@ beautifulsoup4
 httplib2shim
 dnspython
 pyrofork==2.2.11
+telegraph
+tenacity
